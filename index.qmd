@@ -4,6 +4,9 @@ Author: Dina Lauricella
 Date: 20 Aug 2024
 format: html
 editor: visual
+theme:
+  light: flatly
+  dark: darkly
 ---
 
 This is copied from rpubs.com modified for learning purposes.
